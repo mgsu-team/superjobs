@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <html>
  <head>
-  <link rel="stylesheet" href="canvas.css">
-  <script src="canvas.js"></script>
+  <link rel="stylesheet" href="/game/canvas.css">
+  <script src="/game/canvas.js"></script>
   <meta content="text/html; charset=utf-8">
   <title>Ïðèìåð âåá-ñòðàíèöû</title>
  </head>
