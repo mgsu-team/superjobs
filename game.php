@@ -176,6 +176,7 @@ function draw() {
 }
 
 draw();
- </script>	
+ </script>
+<?php echo '<p>Привет, мир!</p>'; ?>
  </body>
 </html>
