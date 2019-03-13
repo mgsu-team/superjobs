@@ -4,7 +4,7 @@
   <link rel="stylesheet" href="canvas.css">
   <script src="canvas.js"></script>
   <meta content="text/html; charset=utf-8">
-  <title>Пример веб-страницы</title>
+  <title>ГЏГ°ГЁГ¬ГҐГ° ГўГҐГЎ-Г±ГІГ°Г Г­ГЁГ¶Г»</title>
  </head>
  <body>
 <canvas id="myCanvas" width="480" height="320"></canvas>
